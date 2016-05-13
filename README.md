@@ -1,3 +1,5 @@
-#PHP_Practice
-phpinfo
-smarty
+#PHP_Practice;
+
+phpinfo;
+
+Smarty;
