@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c D:\WorkSpace\Tools\nginx-1.10.1\start_nginx_php.bat",0
